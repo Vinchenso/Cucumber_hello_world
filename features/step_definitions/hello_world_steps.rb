@@ -9,4 +9,5 @@ end
 Then(/^I should be able to run it and see "([^"]*)" printed on the screen$/) do |arg1|
   puts arg1
   puts "ajck"
+  puts "asdad"
 end
